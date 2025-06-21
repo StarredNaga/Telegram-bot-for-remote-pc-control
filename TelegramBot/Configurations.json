@@ -4,15 +4,15 @@
   },
   
   "TelegramBot": {
-    "Token": "8060506696:AAEEqhso7Rz90e_jyN-SQwQspXeRRhcINcQ"
+    "Token": "Bot id here"
   },
   
   "Security": {
 
-    "AllowedUsers": [6361448156],
+    "AllowedUsers": [],
 
     "CommandPermissions": {
-      "shutdown": [ 6361448156 ]
+      "shutdown": [  ]
     }
   }
 }
