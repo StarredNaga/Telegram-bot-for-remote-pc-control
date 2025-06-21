@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <UserSecretsId>dotnet-TelegramBot-3375b7be-5c56-4693-a2d1-80d83b059867</UserSecretsId>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.Extensions.Hosting" Version="9.0.4"/>
+        <PackageReference Include="Scrutor" Version="6.1.0" />
+        <PackageReference Include="Telegram.Bot" Version="22.5.2-dev.6" />
+    </ItemGroup>
+</Project>

@@ -1,0 +1,18 @@
+{
+  "System": {
+    "Terminal": "/home/starrednaga/bin/fish"
+  },
+  
+  "TelegramBot": {
+    "Token": "8060506696:AAEEqhso7Rz90e_jyN-SQwQspXeRRhcINcQ"
+  },
+  
+  "Security": {
+
+    "AllowedUsers": [6361448156],
+
+    "CommandPermissions": {
+      "shutdown": [ 6361448156 ]
+    }
+  }
+}
